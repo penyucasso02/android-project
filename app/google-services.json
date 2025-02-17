@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668127089865",
+    "project_id": "birthdaypartyevent-10311",
+    "storage_bucket": "birthdaypartyevent-10311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668127089865:android:be73de5b77a5c967156918",
+        "android_client_info": {
+          "package_name": "com.example.birthdaypartyevent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0iU2pNmmZa7rAmlSpHSlQcuEFcKlihUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668127089865:android:58c7de4b527f96e1156918",
+        "android_client_info": {
+          "package_name": "com.example.partyeventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0iU2pNmmZa7rAmlSpHSlQcuEFcKlihUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
